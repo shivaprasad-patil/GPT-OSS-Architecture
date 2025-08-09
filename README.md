@@ -1,6 +1,6 @@
 # GPT-OSS: Architecture Implementation & Analysis
 
-This comprehensive Jupyter notebook provides a **hands-on, implementation-focused** exploration of the GPT-OSS (Open Source) model architecture. It builds working components from scratch and see them integrated into a complete model.
+This comprehensive Jupyter notebook provides a **hands-on, implementation-focused** exploration of the GPT-OSS (Open Source) model architecture. It builds working components and integrates them into a complete model.
 
 ### 🛠️ **Hands-On Implementation**
 - **Working code** for all major GPT-OSS components
