@@ -1,6 +1,6 @@
 # GPT-OSS: Architecture Implementation & Analysis
 
-This comprehensive Jupyter notebook provides a **hands-on, implementation-focused** exploration of the GPT-OSS (Open Source) model architecture. It builds working components and integrates them into a complete model.
+This comprehensive Jupyter notebook provides a **hands-on, implementation-focused** on exploration of the GPT-OSS (Open Source) model architecture. It builds working components and integrates them into a complete model.
 
 ### 🛠️ **Hands-On Implementation**
 - **Working code** for all major GPT-OSS components
@@ -12,9 +12,8 @@ This comprehensive Jupyter notebook provides a **hands-on, implementation-focuse
 ## 📋 Table of Contents
 1. [🏗️ Core Architecture Components](#architecture) - Build RMSNorm, RoPE, Attention, MLP blocks
 2. [🔤 Advanced Tokenization](#tokenizer) - o200k encoding with conversation tokens  
-3. [🧠 Model Integration](#integration) - Complete GPT-OSS vs Simple GPT comparison
+3. [🧠 Model Integration](#integration) - Complete GPT-OSS vs GPT-2 comparison
 4. [📊 Training & Scaling Analysis](#training) - Memory, compute, and performance insights
-5. [🎯 Summary & Next Steps](#summary) - Key takeaways and further exploration
 
 ---
 
@@ -34,6 +33,6 @@ This notebook implements and demonstrates:
 ✅ **Interactive demonstrations** - See tensors flow through each component  
 ✅ **Error-free integration** - Complete working model implementation  
 ✅ **Visual comparisons** - Charts showing benefits of each innovation  
-✅ **Educational focus** - Clear explanations with working examples  
+✅ **Educational focus** - Clear explanations with working example  
 
 Let's dive in and build some cutting-edge AI architecture! 🧠💻
